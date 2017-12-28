@@ -1,7 +1,8 @@
 # Manageable Traffic Lights
 
-# Run form:
+Run form:
 
-# python taffic.py <first color> <second color> <third color> <delay time between swtiching in seconds>
+python taffic.py <first color> <second color> <third color> <delay time between swtiching in seconds>
   
-# Valid Colors: red | green | yellow --------case-sensitive
+# Valid Colors: 
+red | green | yellow --------case-sensitive
